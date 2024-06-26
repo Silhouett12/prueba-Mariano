@@ -1,0 +1,43 @@
+.prueba-1-container {
+    display: flex;
+    flex-direction: column;
+    gap: 150px
+}
+
+.cuadrado1 {
+    background: white;
+    width: 200px;
+    height: 200px;
+}
+
+.punto1 {
+    width: 20px;
+    height: 20px;
+    background: red;
+}
+.cuadrado2 {
+    background: white;
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    margin: 0;
+}
+
+.punto2 {
+    width: 20px;
+    height: 20px;
+    background: red;
+}
+.cuadrado3 {
+    background: white;
+    width: 200px;
+    height: 200px;
+}
+
+.punto3 {
+    width: 20px;
+    height: 20px;
+    background: red;
+}
